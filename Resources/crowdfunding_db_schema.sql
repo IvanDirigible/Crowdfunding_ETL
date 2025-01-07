@@ -44,8 +44,11 @@ CREATE TABLE campaign (
   FOREIGN KEY (subcategory_id) REFERENCES subcategory(subcategory_id)
 );
 
-
+-- Run to verify that the category table has the correct data:
 SELECT * FROM category;
+-- Run to verify that the subcategory table has the correct data:
 SELECT * FROM subcategory;
+-- Run to verify that the contacts table has the correct data:
 SELECT * FROM contacts;
+-- Run to verify that the campaign table has the correct data:
 SELECT * FROM campaign;
