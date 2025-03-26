@@ -5,7 +5,7 @@ Build an ETL pipeline using Python, Pandas, and either Python dictionary methods
 
 ## User Story
 ```md
-AS A data analyst for a crowdfunding
+AS A data analyst for a crowdfunding service
 I WANT to be able to consolidate and analyze data from multiple cources
 SO THAT I can gain insight into business operations and make informed decisions.
 ```
